@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 #The data folder with csv files that are too large to be uploaded to github.
 /data
+/enriched_data
